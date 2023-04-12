@@ -41,5 +41,5 @@ FIles | Description
 
 ### Contributors
 
-- Rhomeinel(rhomeinel@gmail.com)
+- Theophilus Dorh
 
